@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaConsoleApp", "AkkaConsoleApp\AkkaConsoleApp.csproj", "{A57409A4-0A79-4582-8972-DA1D83139765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaConsoleApp.Tests", "AkkaConsoleApp.Tests\AkkaConsoleApp.Tests.csproj", "{EB2D6827-4BB4-4C65-9984-2085AC2DC956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lighthouse", "Lighthouse\Lighthouse.csproj", "{87BE1ABF-1F59-41AB-A3CB-4B1E7E0B218A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A57409A4-0A79-4582-8972-DA1D83139765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57409A4-0A79-4582-8972-DA1D83139765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57409A4-0A79-4582-8972-DA1D83139765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57409A4-0A79-4582-8972-DA1D83139765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB2D6827-4BB4-4C65-9984-2085AC2DC956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2D6827-4BB4-4C65-9984-2085AC2DC956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2D6827-4BB4-4C65-9984-2085AC2DC956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2D6827-4BB4-4C65-9984-2085AC2DC956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87BE1ABF-1F59-41AB-A3CB-4B1E7E0B218A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BE1ABF-1F59-41AB-A3CB-4B1E7E0B218A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BE1ABF-1F59-41AB-A3CB-4B1E7E0B218A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BE1ABF-1F59-41AB-A3CB-4B1E7E0B218A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
